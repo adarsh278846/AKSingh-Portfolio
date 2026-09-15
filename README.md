@@ -24,3 +24,4 @@ npm run build
 - Batch: 2025–2029
 - Semester: 3rd
 - CGPA: 8.38
+
